@@ -1,4 +1,2 @@
 ﻿  Bubble_sort2.c
-c:\users\ssass\source\repos\cstudy\cstudy\bubble_sort2.c(11): error C2057: 상수 식이 필요합니다.
-c:\users\ssass\source\repos\cstudy\cstudy\bubble_sort2.c(11): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
-c:\users\ssass\source\repos\cstudy\cstudy\bubble_sort2.c(11): error C2133: 'arr': 알 수 없는 크기입니다.
+  CStudy.vcxproj -> C:\Users\ssass\source\repos\CStudy\Debug\CStudy.exe

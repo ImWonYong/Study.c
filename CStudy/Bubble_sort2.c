@@ -1,14 +1,14 @@
 /* น้มุ 2571 */
 #include <stdio.h>
 
+arr[1000000];
+
 int main() {
 	int n;
 	int temp = 0;
 	_Bool flag;
 
 	scanf_s("%d", &n);
-
-	int arr[n];
 
 	for (int i = 0; i < n; i++) {
 		scanf_s("%d", &arr[i]);
