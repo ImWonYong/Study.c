@@ -1,14 +1,14 @@
 /* 백준 2571 */
 #include <stdio.h>
 
-int arr[10000];// 배열은 어디에 선언해도 상관 없나요? 어떨 때 main 안과 밖을 구분하는가요?
-
 int main() {
 	int n;
 	int temp = 0;
 	_Bool flag;
 
 	scanf_s("%d", &n);
+
+	int arr[n];
 
 	for (int i = 0; i < n; i++) {
 		scanf_s("%d", &arr[i]);
