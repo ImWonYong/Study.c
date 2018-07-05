@@ -1,4 +1,4 @@
-/* 백준 2571 */
+/* 백준 2570 */
 #include <stdio.h>
 #include <stdlib.h>
 
